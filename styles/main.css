@@ -1,0 +1,41 @@
+.navbar-expand-lg {
+    border-top: solid 0.05em #d5d5d5;
+}
+
+.navbar {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size:0.9em;
+    letter-spacing: 0.07em;
+}
+
+.mainButton {
+    background-color: #1aa7dc;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size:0.9em;
+    color: #fff;
+    padding: 15px 45px;
+    cursor: pointer;
+}
+
+.orangeButton {
+    background-color: #ff8a14;
+    border: #ff8a14;
+}
+
+.jumbotron {
+    background-image: url("../img/hero_bg.jpg");
+  background-size: cover;
+  height: 479px;
+}
+
+.display-4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    font-size:2.3em;
+    letter-spacing: 0.07em;
+}
