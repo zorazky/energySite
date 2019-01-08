@@ -1,3 +1,14 @@
+body {
+    background-color: #f2f2f2;
+}
+
+p {
+    color: #4a4a4a;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size:1em;
+}
+
 .navbar-expand-lg {
     border-top: solid 0.05em #d5d5d5;
 }
@@ -8,6 +19,7 @@
     text-transform: uppercase;
     font-size:0.9em;
     letter-spacing: 0.07em;
+    background-color: #fff;
 }
 
 .mainButton {
@@ -28,8 +40,8 @@
 
 .jumbotron {
     background-image: url("../img/hero_bg.jpg");
-  background-size: cover;
-  height: 479px;
+    background-size: cover;
+    height: 479px;
 }
 
 .display-4 {
@@ -37,5 +49,23 @@
     font-weight: 600;
     color: #fff;
     font-size:2.3em;
-    letter-spacing: 0.07em;
+    letter-spacing: 0.05em;
+}
+
+.sectionTitle {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #4a4a4a;
+    font-size:2.3em;
+    letter-spacing: 0.05em;
+}
+
+.sectionSubtitle {
+    font-size:1.2em;
+    color:#1aa7dc;
+    letter-spacing: 0.05em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-top:.7em;
 }
