@@ -69,3 +69,35 @@ p {
     text-transform: uppercase;
     padding-top:.7em;
 }
+
+#caseStudySection {
+    padding-top:8em;
+}
+
+.myBox {
+    background-color: #fff;
+    
+    z-index: 2;
+    position: relative;
+    
+    margin-top:-500px;
+    
+}
+
+.myBoxContent {
+    padding:50px 20px;
+}
+
+h6 {
+    font-size:.8em;
+    color:#4a4a4a;
+    letter-spacing: 0.05em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-top:.7em;
+}
+
+h5 {
+    color: #4a4a4a;
+}
