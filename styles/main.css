@@ -71,7 +71,7 @@ p {
 }
 
 #caseStudySection {
-    padding-top:8em;
+    
 }
 
 .myBox {
@@ -82,6 +82,28 @@ p {
     
     margin-top:-500px;
     
+}
+
+.myBox2 {
+    background-color: #fff;
+    
+    z-index: 2;
+    position: relative;
+    
+    
+    
+}
+
+.sectionCase, .sectionSpace {
+    margin-top:8em;
+}
+
+.sectionSuppliers {
+    margin-top:20em;
+}
+
+.photoDown {
+    margin-top:-500px;
 }
 
 .myBoxContent {
@@ -101,3 +123,4 @@ h6 {
 h5 {
     color: #4a4a4a;
 }
+
