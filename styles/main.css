@@ -70,9 +70,6 @@ p {
     padding-top:.7em;
 }
 
-#caseStudySection {
-    
-}
 
 .myBox {
     background-color: #fff;
@@ -124,3 +121,34 @@ h5 {
     color: #4a4a4a;
 }
 
+.postBox {
+    width:335px;
+    height:130px;
+    background-color: #ffffff;
+    z-index: 2;
+    position: relative;
+    margin: auto;
+    padding:15px 15px;
+}
+
+.postBox h6 , h5{
+    text-align: left;
+}
+
+.postBox h6 {
+    font-size:.7em;
+    padding-top: 0px;
+}
+
+.postBox h5 {
+    font-size: 1em;
+    
+}
+
+.postBox a {
+    color: #1aa7dc;
+}
+
+.postBox a:hover {
+    text-decoration: none;
+}
